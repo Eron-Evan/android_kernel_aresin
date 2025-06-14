@@ -5627,10 +5627,8 @@ CONFIG_HWCONF_MANAGER=y
 # Core KernelSU options
 CONFIG_KERNELSU=y
 CONFIG_KSU_COMPAT=y
-
 # For KernelSU Next (v0.6.6+)
 CONFIG_KSU_NEXT=y
-
 # (Optional but recommended)
 CONFIG_KSU_MODULE_SEPARATED=y
 CONFIG_KSU_DEBUG=y
