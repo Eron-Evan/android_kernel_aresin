@@ -41,8 +41,8 @@ function zupload()
     git clone --depth=1 https://github.com/AbzRaider/AnyKernel33 -b ares AnyKernel
     cp out/arch/arm64/boot/Image.gz-dtb AnyKernel/
     cd AnyKernel
-    zip -r9 EronX-KSU-Next-OSS-Ares-T.zip *
-    curl --upload-file "EronX-KSU-Next-OSS-Ares-T.zip" https://free.keep.sh
+    zip -r9 EronX-KSU-Next-OSS-Ares-U.zip *
+    curl --upload-file "EronX-KSU-Next-OSS-Ares-U.zip" https://free.keep.sh
 }
 
 compile
